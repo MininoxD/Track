@@ -2,8 +2,6 @@ Titulo: Aplicativo Movil Para seguimiento de COVID-19
 <br/>
 Descripcion: Aplicativo Movil Para seguimiento del Covid
 <br/>
-Autor: Luis Enrique
-<br/>
 Creado:  2020 Marzo
 <br/>
 Stack: Java
